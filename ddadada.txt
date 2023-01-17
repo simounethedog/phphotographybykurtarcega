@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial scale=1">
+
+
+<title>
+    arts 10 by:Gonzales, Toco and Veroya
+</title>
+</head>
+<body>
+    <header>
+
+    </header>
+    <hr>
+    <nav>
+        <table cellspacing="5" cellpadding="5">
+            <tr>
+                <td><a href="index.html">Home</a></td>
+                <td><a href="photo gallery.html">Photo gallery</a></td>
+            </tr>
+    </nav>
+<h1> HistoriaPhotography</h1>
+<h2>By Kurt Arcega </h2>
+<header>
+
+</header>
+<hr>
+<nav>
+    <table cellspacing="5" cellpadding="5">
+        <tr>
+            <td><a href="index.html">Home</a></td>
+            <td><a href="photo gallery.html">Photo Gallery</a></td>
+        </tr>
+</nav>
+<h2>The Photo Gallery</h2>
+
+<br><br><br>
+
+<img src="kurt1.png">
+
+<br><br><br>
+
+<img src="kurt2.png">
+
+<br><br><br>
+
+<img src="kurt3.png">
+
+<br><br><br>
+
+<img src="kurt4.png">
+
+<br><br><br>
+
+<img src="kurt5.png">
+
+<br><br><br>
+
+<img src="kurt6.png">
+
+<br><br><br>
+
+<img src="kurt7.png">
+
+<br><br><br>
+
+<img src="kurt8.png">
+
+<br><br><br>
+
+<img src="kurt9.png">
+
+<br><br><br>
+
+<img src="kurt10.png">
+
+<br><br><br>
+
+<img src="kurt11.png">
+
+<br><br><br>
+
+</body>
+</html>
